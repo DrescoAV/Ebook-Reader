@@ -2671,7 +2671,7 @@ Stemma QT</text>
 <instances>
 <instance part="PFMF.050.1" gate="G$1" x="-1278.89" y="95.25" smashed="yes">
 <attribute name="NAME" x="-1283.97" y="97.79" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-1281.43" y="88.9" size="1.778" layer="96"/>
+<attribute name="VALUE" x="-1291.59" y="91.44" size="1.016" layer="96"/>
 </instance>
 <instance part="GND1" gate="1" x="-1285.24" y="80.01" smashed="yes" rot="R270">
 <attribute name="VALUE" x="-1287.78" y="82.55" size="1.778" layer="96" rot="R270"/>
@@ -2936,15 +2936,13 @@ Stemma QT</text>
 <attribute name="VALUE" x="-1034.796" y="-60.579" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="RESET_BUTTON" gate="G$1" x="-1045.21" y="-54.61" smashed="yes" rot="R90">
-<attribute name="NAME" x="-1050.036" y="-54.61" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="-1042.416" y="-54.61" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<attribute name="NAME" x="-1050.036" y="-57.15" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 </instance>
 <instance part="GND29" gate="1" x="-1042.67" y="-67.31" smashed="yes">
 <attribute name="VALUE" x="-1045.21" y="-69.85" size="1.778" layer="96"/>
 </instance>
 <instance part="BOOT_BUTTON" gate="G$1" x="-1024.89" y="-54.61" smashed="yes" rot="R90">
 <attribute name="NAME" x="-1029.716" y="-57.15" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="-1022.096" y="-54.61" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="GND30" gate="1" x="-1022.35" y="-67.31" smashed="yes">
 <attribute name="VALUE" x="-1024.89" y="-69.85" size="1.778" layer="96"/>
@@ -2962,7 +2960,6 @@ Stemma QT</text>
 </instance>
 <instance part="CHANGE_BUTTON" gate="G$1" x="-1005.84" y="-54.61" smashed="yes" rot="R90">
 <attribute name="NAME" x="-1010.666" y="-59.69" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="-1003.046" y="-54.61" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="GND31" gate="1" x="-1003.3" y="-67.31" smashed="yes">
 <attribute name="VALUE" x="-1005.84" y="-69.85" size="1.778" layer="96"/>
